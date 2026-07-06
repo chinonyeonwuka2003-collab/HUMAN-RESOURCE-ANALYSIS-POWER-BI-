@@ -138,7 +138,7 @@ Performed in Power Query. Reduced the dataset from 36 → 26 columns.
 | `Termd` | 1 if `DateofTermination` populated, else 0 |
 | `Employee Age` | Derived from `DOB` |
 | `Employee Age (groups)` | Banded age ranges |
-| `Years Worked` | Tenure in years (see fix below) |
+| `Years Worked` | Tenure in years  |
 | `Years Worked (groups)` | Tenure bands: 0–1, 1–3, 3–5, 5–10, 10+ years |
 
 ### DAX Measures
