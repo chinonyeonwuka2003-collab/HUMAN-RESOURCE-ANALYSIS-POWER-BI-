@@ -1,4 +1,5 @@
-# HR Workforce Analytics: Retention, Performance & Turnover Analysis
+# HUMAN RESOURCE ANALYSIS
+# Workforce Retention, Performance & Turnover Analysis
 
 A data-driven analysis of a 311 employee HR dataset (2006–2018), built to answer the questions HR management couldn't answer with raw data alone: *why do people leave, which departments are highest-risk, and which levers actually move retention?*
 
@@ -16,7 +17,6 @@ The project spans data cleaning, feature engineering, exploratory analysis, and 
 - [Dataset](#dataset)
 - [Data Cleaning](#data-cleaning)
 - [Feature Engineering](#feature-engineering)
-- [Known Issue & Fix: The `TODAY()` Tenure Bug](#known-issue--fix-the-today-tenure-bug)
 - [Methodology](#methodology)
 - [Key Findings](#key-findings)
 - [Dashboard](#dashboard)
@@ -101,8 +101,6 @@ hr-workforce-analytics/
 │
 └── README.md
 ```
-
-> Adjust the tree above to match your actual folder layout once uploaded.
 
 ---
 
@@ -197,8 +195,9 @@ A 2-page interactive Power BI report (`HR_DASHBOARD.pbix`):
 
 Cross-filterable by Department, Gender, and Recruitment Source slicers.
 
-"C:\Users\Augustina\OneDrive\Documents\TINA DATA ANALYST\POWER BI DOCUMENTS\HUMAN RESOURCES ANALYSIS\HR Dashboard 1.png"
-"C:\Users\Augustina\OneDrive\Documents\TINA DATA ANALYST\POWER BI DOCUMENTS\HUMAN RESOURCES ANALYSIS\HR Dashboard 2.png"
+`![Dashboard Preview]("C:\Users\Augustina\OneDrive\Documents\TINA DATA ANALYST\POWER BI DOCUMENTS\HUMAN RESOURCES ANALYSIS\HR Dashboard 1.png")`
+
+`![Dashboard Preview]("C:\Users\Augustina\OneDrive\Documents\TINA DATA ANALYST\POWER BI DOCUMENTS\HUMAN RESOURCES ANALYSIS\HR Dashboard 2.png")`
 
 ---
 
