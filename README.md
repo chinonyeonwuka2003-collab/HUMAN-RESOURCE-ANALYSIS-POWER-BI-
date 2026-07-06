@@ -195,10 +195,12 @@ A 2-page interactive Power BI report (`HR_DASHBOARD.pbix`):
 
 Cross-filterable by Department, Gender, and Recruitment Source slicers.
 
-![HR ANALYSIS]
+HR ANALYSIS
+
 <img width="528" height="357" alt="HR Dashboard 1" src="https://github.com/user-attachments/assets/52c83c94-306e-48fc-b84a-a021a301e7dc" />
 
 WORKFORCE PERFORMANCE
+
 <img width="527" height="356" alt="HR Dashboard 2" src="https://github.com/user-attachments/assets/18573b3c-7d10-4095-85cf-31f2ffc2ce5e" />
 
 ---
