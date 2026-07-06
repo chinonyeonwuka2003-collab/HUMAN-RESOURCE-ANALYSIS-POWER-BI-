@@ -195,9 +195,9 @@ A 2-page interactive Power BI report (`HR_DASHBOARD.pbix`):
 
 Cross-filterable by Department, Gender, and Recruitment Source slicers.
 
-`![Dashboard Preview]("C:\Users\Augustina\OneDrive\Documents\TINA DATA ANALYST\POWER BI DOCUMENTS\HUMAN RESOURCES ANALYSIS\HR Dashboard 1.png")`
+![Dashboard Preview]("C:\Users\Augustina\Pictures\HR Dashboard 1.png")
 
-`![Dashboard Preview]("C:\Users\Augustina\OneDrive\Documents\TINA DATA ANALYST\POWER BI DOCUMENTS\HUMAN RESOURCES ANALYSIS\HR Dashboard 2.png")`
+![Dashboard Preview]("C:\Users\Augustina\Pictures\HR Dashboard 2.png")
 
 ---
 
