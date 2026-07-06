@@ -85,21 +85,17 @@ This project closes that gap with quantified, reproducible evidence.
 
 ```
 hr-workforce-analytics/
-│
-├── data/
-│   └── HRDataset_v14_cleaned.csv        # cleaned dataset (26 cols, 311 rows)
-│
-├── dashboard/
-│   └── HR_DASHBOARD.pbix                # Power BI report (2 pages, DAX measures)
-│
-├── reports/
+│ reports/
+|   └── HR_Analytics_Presentation.pptx   # 16-slide defense deck
 │   ├── HR_Analytics_Report.docx         # full written report (15 pages)
-│   └── HR_Analytics_Presentation.pptx   # 16-slide defense deck
+|
+|   ├── dashboard/
+│   └── HR_DASHBOARD.pbix                # Power BI report (2 pages, DAX measures)
+|
+|   ├── data/
+│   └── HRDataset_v14_raw.csv        # Raw dataset (36 cols, 311 rows)
 │
-├── charts/
-│   └── *.png                            # exported dashboard screenshots
-│
-└── README.md
+|   └── README.md
 ```
 
 ---
